@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/amrawey/workspace/github.com/amrawey/Pygame-Astroids/venv
+set -gx VIRTUAL_ENV /home/amrawey/workspace/github.com/amrawey/Pygame-Asteroids/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
